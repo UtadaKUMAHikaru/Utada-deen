@@ -1,0 +1,21 @@
+environment: Diagon Alley was completely empty because of the coronavirus.
+hagrid: Where is everybody?
+albus dumbledore: Hopefully at home.
+harry_as_voldemort: There we go.
+ron: They're not here.
+hermione: They're back!
+hermione: There we go.
+harry_as_voldemort: They're back! They're not here. They're too tired to go.
+harry_as_voldemort: They're not here.
+harry: How much longer until they're gone?
+harry: They're not here.
+hermione: They're not here. They're no longer with us. They're gone.
+hermione: They're not here.
+harry_as_voldemort: They're not here. They're not alive. They're dead.
+harry_as_voldemort: They're not here.
+ron: They're gone. I'll be with them for a while, they're gone.
+ron: They're gone.
+environment: Harry turns to the floor.
+environment: They're back!
+ron: They are gone.
+ron: They're gone.
